@@ -1,2 +1,3 @@
 #ignore environement files
 .env
+.DS_Store
