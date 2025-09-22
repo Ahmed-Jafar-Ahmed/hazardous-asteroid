@@ -37,9 +37,3 @@ class NeoWsPreprocessor(BaseEstimator, TransformerMixin):
         df = df.drop_duplicates()
         
         return df
-path = '../data/processed/p_asteroids.csv'
-Path.mkdir(Path(path).parent, exist_ok=True)
-df = pd.read_csv('../data/raw/p_asteroids.csv')
-preprocessor = NeoWsPreprocessor()
-df = preprocessor.fit_transform(df)
-df.to_csv(path, index=False)

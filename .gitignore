@@ -6,3 +6,5 @@ data/processed/
 .venv/
 .vscode/
 data/feature_engineered/
+setup.py
+neows_project.egg-info
