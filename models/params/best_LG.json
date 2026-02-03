@@ -1,0 +1,8 @@
+{
+  "model_name": "LG",
+  "best_value": 0.885286386002489,
+  "best_params": {
+    "C": 0.08414158202732193
+  },
+  "best_trial_number": 42
+}

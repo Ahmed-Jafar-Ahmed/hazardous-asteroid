@@ -1,0 +1,12 @@
+{
+  "model_name": "XG",
+  "best_value": 0.9351153260806203,
+  "best_params": {
+    "n_estimators": 186,
+    "max_depth": 5,
+    "learning_rate": 0.048325658816622,
+    "subsample": 0.7885504507103515,
+    "colsample_bytree": 0.9538450940282923
+  },
+  "best_trial_number": 49
+}

@@ -8,3 +8,11 @@ data/processed/
 data/feature_engineered/
 setup.py
 neows_project.egg-info
+__pycache__/
+__init__.py
+notebooks/mlflow.db
+notebooks/mlruns/
+notebooks
+mlruns/
+mlflow.db
+setup_project.sh
